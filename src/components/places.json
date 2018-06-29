@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Kakinada Port",
+    "type": "Railway Station",
+    "latitude": 16.989065,
+    "longitude": 82.247467
+  },
+  {
+    "name": "Vijayawada Junction",
+    "type": "Railway Station",
+    "latitude": 16.515099,
+    "longitude": 80.632095
+  },
+  {
+    "name": "Chengalpattu Junction",
+    "type": "Railway Station",
+    "latitude":12.693933 ,
+    "longitude":  79.975662
+  },
+  {
+    "name": "Vishakapatnam Junction",
+    "type": "Railway Station",
+    "latitude":17.686815 ,
+    "longitude": 83.218483
+  },
+  {
+    "name": "New Delhi",
+    "type": "Railway Station",
+    "latitude":28.644800 ,
+    "longitude": 77.216721
+  },
+  {
+    "name": "Hazarat Nizamuddin",
+    "type": "Railway Station",
+    "latitude":  28.588915,
+    "longitude":  77.253844
+  },
+  {
+    "name": "Chennai Central",
+    "type": "Railway Station",
+    "latitude": 13.067439,
+    "longitude": 80.237617
+  },
+  {
+    "name": "Mumbai Central",
+    "type": "Railway Station",
+    "latitude":18.9690144573 ,
+    "longitude": 72.8182783935
+  },
+  {
+    "name": "Chennai Egmore",
+    "type": "Railway Station",
+    "latitude": 13.067439,
+    "longitude": 80.237617
+  },
+  {
+    "name": "Bengaluru City",
+    "type": "Railway Station",
+    "latitude": 12.972442,
+    "longitude": 77.580643
+  },{
+    "name": "Solapur",
+    "type": "Railway Station",
+    "latitude": 17.659920,
+    "longitude": 75.906387
+  },
+  {
+    "name": "Pune",
+    "type": "Railway Station",
+    "latitude": 18.516726,
+    "longitude": 73.856255
+  },
+  {
+    "name": "Bhubaneswar",
+    "type": "Railway Station",
+    "latitude": 20.296059,
+    "longitude": 85.824539
+  },
+  {
+    "name": "Mumbai Chatrapati Shivaji Terminus",
+    "type": "Railway Station",
+    "latitude": 18.943888,
+    "longitude": 72.835991
+  },
+  {
+    "name": "Mumbai Lokamanya Tilak Terminus",
+    "type": "Railway Station",
+    "latitude": 19.228825,
+    "longitude": 72.854118
+  },
+  {
+    "name": "Secundrabad",
+    "type": "Railway Station",
+    "latitude": 17.439930,
+    "longitude": 78.498276
+  },
+  {
+    "name": "Nagpur",
+    "type": "Railway Station",
+    "latitude": 21.146633,
+    "longitude":79.088860 
+  },
+  {
+    "name": "Vaniyambadi",
+    "type": "Railway Station",
+    "latitude": 11.127123,
+    "longitude": 78.656891
+  },
+  {
+    "name": "Howrah Junction",
+    "type": "Railway Station",
+    "latitude": 22.595770,
+    "longitude": 88.263641
+  },
+  {
+    "name": "Puri",
+    "type": "Railway Station",
+    "latitude": 19.817743,
+    "longitude": 85.828629
+  }
+]
